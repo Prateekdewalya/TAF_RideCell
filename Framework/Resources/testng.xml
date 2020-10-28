@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Sample Framework for RideCell team">
+
+	<test name="Verify the Web and API data for avaiable repositories on github https://github.com/django page">
+		<classes>
+			<class name="com.prateek.qa.testcases.GitHub_HomePageTest"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,91 @@
+2020-10-28 14:14:01,168  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:14:11,599  INFO [main] TestBase:93 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 14:14:11,602  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:14:16,379 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 14:14:16,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 14:14:16,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 14:14:16,387 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 14:14:16,388 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 14:16:35,934  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:16:45,992  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 14:16:45,996  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:16:51,407 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 14:16:51,409 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 14:16:51,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 14:16:51,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 14:16:51,412 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 14:18:20,320  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:18:31,208  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 14:18:31,210  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 14:18:36,254 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 14:18:36,257 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 14:18:36,259 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 14:18:36,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 14:18:36,262 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:11:07,351  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:11:16,607  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:11:16,610  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:11:21,179 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:11:21,181 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:11:21,185 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:11:21,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:11:21,188 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:12:43,044  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:14:31,238  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:14:53,882  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:17:24,473 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:17:24,512 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:17:24,588 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:17:24,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:17:24,650 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:17:43,794  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:17:52,671  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:17:52,675  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:17:57,639 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:17:57,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:17:57,642 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:17:57,643 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:17:57,644 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:21:46,111  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:22:25,334  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:22:35,100  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:22:35,103  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:22:40,114 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:22:40,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:22:40,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:22:40,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:22:40,120 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:24:02,487  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:24:12,949  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:24:12,952  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:24:17,441 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:24:17,444 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:24:17,448 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:24:17,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:24:17,452 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:24:33,322  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:24:42,863  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:24:42,866  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:24:47,576 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:24:47,578 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:24:47,579 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:24:47,581 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:24:47,581 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 16:24:54,334  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:26:50,236  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:29:29,281  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:29:38,157  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 16:29:38,161  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 16:29:43,100 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 16:29:43,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 16:29:43,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 16:29:43,107 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 16:29:43,108 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-10-28 17:35:36,321  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 17:35:48,247  INFO [main] TestBase:94 - Web Driver invoked successfully for URL :   https://github.com/django
+2020-10-28 17:35:48,252  INFO [main] TestBase:45 - property file loaded successfully
+2020-10-28 17:35:57,428 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2020-10-28 17:35:57,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2020-10-28 17:35:57,438 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-28 17:35:57,441 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-28 17:35:57,442 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/Prate/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
