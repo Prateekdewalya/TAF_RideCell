@@ -11,7 +11,7 @@ import io.restassured.response.Response;
 import Framework_Utils.ExtentReportListner;
 
 @Listeners(ExtentReportListner.class)
-public class API_Application_Methods extends ExtentReportListner {
+public class API_Lib_Methods extends ExtentReportListner {
 	JSONObject obj_JSON ;
 	ArrayList<String> repoList =null;
 	public static Response response;

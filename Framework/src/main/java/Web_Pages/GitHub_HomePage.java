@@ -10,7 +10,7 @@ import org.testng.annotations.Listeners;
 import com.relevantcodes.extentreports.LogStatus;
 
 import Framework_Utils.ExtentReportListner;
-import Methods_Library.Web_Framework_Methods;
+import Methods_Library.Web_Lib_Methods;
 import Web_Base.TestBase;
 
 @Listeners(ExtentReportListner.class)
@@ -31,7 +31,7 @@ public class GitHub_HomePage extends TestBase
 	{
 		try
 		{
-			boolean blnStatus = Web_Framework_Methods.clickonObject(link_Repositories);
+			boolean blnStatus = Web_Lib_Methods.clickonObject(link_Repositories);
 			if (blnStatus)
 			{
 				test.log(LogStatus.PASS, " Repostiory link is clicked successfully" );
@@ -48,20 +48,7 @@ public class GitHub_HomePage extends TestBase
 		}
 	}
 
-	//	
-	//	public void verifyPageTitleAfterLauch(String expectedPageTitle)
-	//	{
-	//		boolean blnStatus = verifyPageTitile(expectedPageTitle);
-	//		if (blnStatus)
-	//		{
-	//			test.log(LogStatus.PASS, "Web Page is showing expected page title  " + expectedPageTitle  );
-	//		}
-	//				
-	//		else
-	//		{
-	//			test.log(LogStatus.FAIL, "Web Page is not showing expected page title." + expectedPageTitle  );
-	//		}
-	//	}
+
 	public ArrayList<String> getTheLinkDetails()
 	{
 		ArrayList<String> allRepoNames =null;

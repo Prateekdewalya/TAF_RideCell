@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 
 import Web_Base.TestBase;
 
-public class Web_Framework_Methods extends TestBase {
+public class Web_Lib_Methods extends TestBase {
 	/*
 	 * public static boolean verifyPageTitile(String expectedPageTitle) { try {
 	 * String currentPageTitle = driver.getTitle(); if

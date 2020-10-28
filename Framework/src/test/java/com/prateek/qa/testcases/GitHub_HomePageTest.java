@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.LogStatus;
 
-import Methods_Library.API_Application_Methods;
+import Methods_Library.API_Lib_Methods;
 import Web_Base.TestBase;
 import Web_Pages.GitHub_HomePage;
 
@@ -18,7 +18,7 @@ import Web_Pages.GitHub_HomePage;
 public class GitHub_HomePageTest extends TestBase
 {
 	GitHub_HomePage obj_Github_HomePage;
-	API_Application_Methods obj_Github_API_App_Methods;
+	API_Lib_Methods obj_Github_API_App_Methods;
 	public GitHub_HomePageTest() 
 	{
 		super(); // to int the parent constructor 
@@ -29,7 +29,7 @@ public class GitHub_HomePageTest extends TestBase
 	{
 		initialization();
 		obj_Github_HomePage = new GitHub_HomePage();
-		obj_Github_API_App_Methods = new API_Application_Methods();
+		obj_Github_API_App_Methods = new API_Lib_Methods();
 	}
 
 	@Test(enabled =true, priority=1, description= "GitHub django - Web and API  Test Case for Avaiable Repositories Validation")
@@ -46,7 +46,8 @@ public class GitHub_HomePageTest extends TestBase
 		//Assert.assertEquals(api_list, web_list, "Not having the correct order");
 		if (blnStatus)
 		{
-			test.log(LogStatus.PASS, " Web Platform data is matching with API Platform Data which have total : " + web_list.size() +" records : " + web_list );
+			test.log(LogStatus.PASS, " Web Platform data is matching with API Platform Data "
+					+ "which have total : " + web_list.size() +" records : " + web_list );
 		}
 		else
 		{

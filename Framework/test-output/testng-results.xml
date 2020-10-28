@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Sample Framework for RideCell team" duration-ms="20949" started-at="2020-10-28T17:35:36 IST" finished-at="2020-10-28T17:35:57 IST">
+  <suite name="Sample Framework for RideCell team" duration-ms="19356" started-at="2020-10-28T23:25:29 IST" finished-at="2020-10-28T23:25:48 IST">
     <groups>
     </groups>
-    <test name="Verify the Web and API data for avaiable repositories on github https://github.com/django page" duration-ms="20949" started-at="2020-10-28T17:35:36 IST" finished-at="2020-10-28T17:35:57 IST">
+    <test name="Verify the Web and API data for avaiable repositories on github https://github.com/django page" duration-ms="19356" started-at="2020-10-28T23:25:29 IST" finished-at="2020-10-28T23:25:48 IST">
       <class name="com.prateek.qa.testcases.GitHub_HomePageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="setup" is-config="true" duration-ms="11480" started-at="2020-10-28T17:35:36 IST" finished-at="2020-10-28T17:35:48 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="setup" is-config="true" duration-ms="10794" started-at="2020-10-28T23:25:29 IST" finished-at="2020-10-28T23:25:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="GitHub_TC_PrintAllRepoName()[pri:1, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="GitHub_TC_PrintAllRepoName" duration-ms="8266" started-at="2020-10-28T17:35:48 IST" description="GitHub django - Web and API  Test Case for Avaiable Repositories Validation" finished-at="2020-10-28T17:35:56 IST">
+        <test-method status="PASS" signature="GitHub_TC_PrintAllRepoName()[pri:1, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="GitHub_TC_PrintAllRepoName" duration-ms="7474" started-at="2020-10-28T23:25:40 IST" description="GitHub django - Web and API  Test Case for Avaiable Repositories Validation" finished-at="2020-10-28T23:25:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GitHub_TC_PrintAllRepoName -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="tearDown" is-config="true" duration-ms="755" started-at="2020-10-28T17:35:56 IST" finished-at="2020-10-28T17:35:57 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.prateek.qa.testcases.GitHub_HomePageTest@2fd66ad3]" name="tearDown" is-config="true" duration-ms="724" started-at="2020-10-28T23:25:48 IST" finished-at="2020-10-28T23:25:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
